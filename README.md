@@ -14,7 +14,7 @@ Made and tested for macOS.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/3d-image-toolbox.git
+git clone https://github.com/MR-Nordsee/3D-Image-Toolbox.git
 cd 3d-image-toolbox
 sh setup.sh
 ```
