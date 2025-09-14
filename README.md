@@ -42,7 +42,7 @@ The files have fullsbs in the filename so Skybox VR automatic switch on the Full
 ## Dependencies & Referenced Projects
 
 - [OpenCV](https://github.com/opencv/opencv)
-- [NumPy](hhttps://github.com/numpy/numpy)
+- [NumPy](https://github.com/numpy/numpy)
 - [Pillow_heif](https://github.com/bigcat88/pillow_heif)
 - [Pillow](https://github.com/python-pillow/Pillow)
 - [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2)
