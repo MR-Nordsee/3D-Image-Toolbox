@@ -1,0 +1,15 @@
+This project is unter MIT Licence see LICENCE file.
+
+Used projects, libaries and binaries:
+pillow_heif: BSD 3-Clause (https://github.com/bigcat88/pillow_heif/blob/master/LICENSE.txt) see NOTICE-pillow_heif
+gradio: Apache 2.0 (https://github.com/gradio-app/gradio/blob/main/LICENSE) see NOTICE-gradio
+pytorch: (https://github.com/pytorch/pytorch/blob/main/LICENSE) see NOTICE-pytorch
+pytorch-vision: BSD 3-Clause (https://github.com/pytorch/vision/blob/main/LICENSE) see NOTICE-pytorch-vision
+pillow: (https://github.com/python-pillow/Pillow/blob/main/LICENSE) see NOTICE-pillow
+openvc: MIT Licence (https://github.com/opencv/opencv-python/blob/4.x/LICENSE.txt) NOTICE-openvc
+matplotlib: (https://github.com/matplotlib/matplotlib/tree/main/LICENSE) see NOTICE-matplotlib (includes other Licence NOTICE)
+depth-anything-v2: Apache 2.0 (https://github.com/DepthAnything/Depth-Anything-V2/blob/main/LICENSE) see NOTICE-depth-anything-v2
+python3: PSF License Version 2 (https://docs.python.org/3/license.html#python-software-foundation-license-version-2)
+
+This includes only directly used projects, libaries and binaries.
+Used projects, libaries and binaries may include dependencies that have other licences.
