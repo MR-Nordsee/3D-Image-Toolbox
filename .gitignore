@@ -211,3 +211,6 @@ __marimo__/
 Output/
 ImageFiles/
 DepthFiles/
+depth_anything_v2/
+depth_anything_v2_*.pth
+tools/
